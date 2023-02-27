@@ -6,7 +6,7 @@ This repository contains the code for our TOIS paper ***Enhancing Multi-View Smo
 
 We propose ***MVS***, a general training framework for enhancing the multi-view smoothness of sequential recommendation models using implicit feedback data. In our approach, we leverage a complementary model and devise three regularizers to guarantee label smoothness, context smoothness and model smoothness. *In this project, we mainly release the implemented code on the SASRec model*.
 
-![](figure/model.png)
+![](model.png)
 
 ## Train DCLR
 
