@@ -8,9 +8,9 @@ We propose ***MVS***, a general training framework for enhancing the multi-view 
 
 ![](model.png)
 
-## Train DCLR
+## Train MVS
 
-In the following section, we describe how to train a DCLR model by using our code.
+In the following section, we describe how to train a SASRec+MVS model by using our code.
 
 ### Environment
 
